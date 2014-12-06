@@ -1,0 +1,15 @@
+{
+
+  "main":"me.bayes.sitemap.vertx.SitemapMod",
+
+  "description":"Worker module to work with a site map.",
+  "licenses": [""],
+  "author": "Kevin Bayes",
+
+  // Optional fields
+  "keywords": ["Sitemap", "Web"],
+  "homepage": "http://www.github.com/kevinbayes/sitemap",
+
+  "auto-redeploy": true,
+  "worker" : true
+}

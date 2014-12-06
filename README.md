@@ -1,4 +1,7 @@
-sitemap
-=======
+# Vert.x Sitemap Module
 
-Vertx module to generate a sitemap
+This is used to generate and maintain a site map in vertx.
+
+## Configuration
+
+
